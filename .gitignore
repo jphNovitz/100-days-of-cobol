@@ -1,0 +1,23 @@
+# --- Exécutables et Binaires ---
+*.exe
+*.dll
+*.so
+*.bin
+*.out
+
+# --- Fichiers de compilation intermédiaires ---
+*.o
+*.obj
+*.lib
+*.a
+
+# --- Spécifique COBOL (GnuCOBOL / Mainframe logs) ---
+*.lst
+*.lis
+*.i
+*.idy
+
+# --- Système (Toujours utile) ---
+.DS_Store
+Thumbs.db
+.vscode/
